@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mvvm-FakeDatabase</string>
+    <string name="movieTitle">Movie title</string>
+    <string name="movieAuthor">Movie Author</string>
+    <string name="btnSubmit">Save</string>
+    <string name="textList">Movie Title - Movie Author</string>
+</resources>
